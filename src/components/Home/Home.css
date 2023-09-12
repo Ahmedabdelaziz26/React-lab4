@@ -1,0 +1,55 @@
+.cardBody {
+  min-height: 5rem !important;
+}
+.cardBodyT {
+  overflow-wrap: break-word !important;
+  display: block;
+}
+
+.favorite-icon {
+  margin-top: -65px;
+  margin-right: 10px !important;
+}
+
+.anchorStyle {
+  text-decoration: none;
+  color: black !important;
+  font-size: larger;
+}
+
+.anchorStyle:hover {
+  color: rgb(13, 175, 187) !important;
+}
+
+.progressStyle {
+  width: 50px !important;
+  background-color: black !important;
+  height: 50px !important;
+  border-radius: 50% !important;
+  margin-left: 20px !important;
+  margin-top: -30px !important;
+}
+
+.progressStylePrec {
+  text-align: center;
+  color: white;
+  font-size: small;
+  font-weight: bolder;
+  margin-top: -31px;
+  margin-left: -1px;
+}
+
+.progressStylePrec > span {
+  font-size: 8px;
+  margin-top: -5px;
+  position: absolute;
+}
+
+
+.MuiStack-root{
+    height: 100px;
+    display: block;
+    text-align: center !important;
+    margin-left: 100px;
+    margin-top: 10px;
+}

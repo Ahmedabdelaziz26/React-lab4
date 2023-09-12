@@ -1,0 +1,40 @@
+.cover {
+  /* background-color: lightgreen; */
+  /* width: 100%; */
+  /* height: 20vw; */
+  display: block;
+}
+
+.post-image {
+  max-width: 25vw;
+  margin-left: 6vw !important;
+}
+
+.progressStyleS {
+  width: 100px !important;
+  background-color: black !important;
+  height: 100px !important;
+  border-radius: 50% !important;
+  margin-left: 20px !important;
+}
+
+.progressStylePrecS {
+  text-align: center !important;
+  color: white !important;
+  font-size: xx-large !important;
+  font-weight: bolder !important;
+  margin-top: -73px !important;
+  margin-left: 0px !important;
+}
+
+.progressStylePrecS > span {
+  font-size: 16px !important;
+  margin-top: -3px !important;
+  position: absolute !important;
+}
+
+.progressScoreS {
+  margin-top: -75px;
+  margin-right: -200px;
+  font-size: 27px;
+}
